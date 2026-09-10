@@ -1,6 +1,6 @@
 # 📚 Digitalización
 
-Repositorio con mis **notas, apuntes y ejercicios de clase** de la asignatura **Digitalización** de 1º de DAM.
+Repositorio con mis **notas, apuntes y ejercicios de clase** de la asignatura **Digitalización** de 2º de DAM.
 
 ---
 
