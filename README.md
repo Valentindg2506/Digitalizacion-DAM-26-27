@@ -1,61 +1,22 @@
-# 📚 Digitalización
+# Digitalización · DAM 26/27
 
-Repositorio con mis **notas, apuntes y ejercicios de clase** de la asignatura **Digitalización** de 2º de DAM.
+Apuntes y actividades de la asignatura **Digitalización aplicada a los sectores productivos** de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM), curso 2026/2027.
 
----
+## De qué trata la asignatura
 
-## 📖 Contenido
+Digitalización estudia cómo la tecnología transforma la forma de trabajar de las empresas: qué tecnologías habilitadoras existen (nube, IoT, inteligencia artificial, big data, ciberseguridad…), cómo cambian los modelos de negocio y qué papel tiene un desarrollador dentro de ese proceso.
 
-En este repositorio voy a ir guardando todo lo relacionado con la asignatura:
+## Qué hay en el repositorio
 
-* 📝 Apuntes de clase
-* 💻 Ejercicios y prácticas
-* 📚 Conceptos importantes
-* 📊 Trabajos realizados
-* 📑 Documentación complementaria
+Los apuntes están en `Clases/`, un archivo Markdown por sesión con la fecha como nombre (por ejemplo `10-09.md`). Así se puede seguir la asignatura en el mismo orden en que se dio en clase.
 
----
+El repositorio irá creciendo a lo largo del curso con nuevas sesiones, actividades y trabajos.
 
-## 📂 Estructura
+## Para qué sirve
 
-```text
-Digitalizacion/
-│
-├── Clases/
-│   ├── Clase-1/
-│   ├── Clase-2/
-│   └── ...
-│
-├── Ejercicios/
-│
-├── Trabajos/
-│
-└── README.md
-```
+Es mi cuaderno de la asignatura: lo visto en clase, por fechas y en un único sitio, para repasar y preparar las entregas.
 
-La estructura puede ir cambiando a medida que avance el curso.
+## Autor
 
----
-
-## 🎯 Objetivo
-
-El objetivo de este repositorio es tener todos mis apuntes de **Digitalización** organizados en un único lugar y poder consultarlos fácilmente durante el curso.
-
-También sirve como respaldo de todo el trabajo realizado en clase.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-* Markdown
-* Git
-* GitHub
-* Herramientas utilizadas durante la asignatura
-
----
-
-## 👨‍💻 Autor
-
-**Valentín**
-
-Estudiante de **2º DAM**.
+**Valentín Antonio De Gennaro** · Estudiante de 2.º de DAM en Valencia
+[valentindg.com](https://valentindg.com) · [Portafolio](https://portafolio.valentindg.com) · [LinkedIn](https://www.linkedin.com/in/valentindg)
